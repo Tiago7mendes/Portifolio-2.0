@@ -296,6 +296,11 @@ img:hover {
     color: black;
 }
 
+.video{
+    height: 300px;
+    border-radius: 5%;
+    width: 400px;
+}
 .sobre{
     background-color: #fff;
     border: 2px solid #ff5733;
